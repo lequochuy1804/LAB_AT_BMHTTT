@@ -1,13 +1,9 @@
-# LAB 7 – Xây dựng chính sách Web Protection
+# LAB 7 – XÂY DỰNG CHÍNH SÁCH BẢO VỆ TRUY CẬP WEB TRÊN MÔ HÌNH pfSense VÀ WEB PROXY
 
 **Họ và tên:** Lê Quốc Huy  
 **MSSV:** 1150070016  
 **Mã lớp:** TTMT  
 **Môn học:** Thực hành An toàn Hệ thống Thông tin  
-
-## Giới thiệu
-
-Bài thực hành Lab 7 triển khai chính sách kiểm soát truy cập Web với pfSense và Web Proxy. pfSense quản lý lưu lượng mạng, còn Squid và E2Guardian lọc truy cập, áp dụng danh sách cho phép hoặc chặn, hiển thị cảnh báo và ghi nhật ký.
 
 ## Mục tiêu
 
