@@ -2,7 +2,6 @@
 
 - **Họ tên:** Lê Quốc Huy
 - **MSSV:** 1150070016
-- **Video:** https://www.youtube.com/watch?v=M1i_F7SLQY4
 
 ## 1. Mục tiêu thực hành
 
